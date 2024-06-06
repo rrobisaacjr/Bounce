@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "574222921691",
+    "project_id": "cmsc23-final-project-b96e9",
+    "storage_bucket": "cmsc23-final-project-b96e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574222921691:android:c4319cd23b0cf732d901fe",
+        "android_client_info": {
+          "package_name": "com.example.bounce_finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574222921691-ft6kn2b3j2coe9q1quicrd7mabubq14j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp9pvvFYySA4V_dZa1DUgy54TrZIrHFGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574222921691-ft6kn2b3j2coe9q1quicrd7mabubq14j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574222921691-4e8ighq1nu51e026f6jpsauiv7rtghmd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.exer6Firebase2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574222921691:android:ba52afebd89a1bf1d901fe",
+        "android_client_info": {
+          "package_name": "com.example.exer6_firebase_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574222921691-ft6kn2b3j2coe9q1quicrd7mabubq14j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp9pvvFYySA4V_dZa1DUgy54TrZIrHFGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574222921691-ft6kn2b3j2coe9q1quicrd7mabubq14j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574222921691-4e8ighq1nu51e026f6jpsauiv7rtghmd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.exer6Firebase2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
